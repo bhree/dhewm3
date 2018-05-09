@@ -1,1 +1,8 @@
 Put r_noLight back so if you don't like dark now your mind is at ease.
+Modified files :
+renderer/Image_init.cpp
+renderer/RenderSystem_init.cpp
+renderer/RenderWorld_portals.cpp
+renderer/draw_common.cpp
+renderer/Material.cpp
+renderer/tr_local.h
