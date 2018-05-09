@@ -1,7 +1,7 @@
 # ABOUT
 
 _dhewm 3_ is a _Doom 3_ GPL source port, know to work on at least Windows, Linux, Mac OS X and FreeBSD.
-This _dhewm 3_ is patched to have r/_noLight parameter to disable lighting effect and speed the framerate for low end machine.
+This _dhewm 3_ is patched to have r\_noLight parameter to disable lighting effect and speed the framerate for low end machine.
 
 The goal of _dhewm 3_ is bring _DOOM 3_ with the help of SDL to all suitable
 platforms.
