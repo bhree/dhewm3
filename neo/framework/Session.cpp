@@ -2435,7 +2435,7 @@ void idSessionLocal::Draw() {
 			emptyDrawCount++;
 			if ( emptyDrawCount > 5 ) {
 				// it's best if you can avoid triggering the watchgod by doing the right thing somewhere else
-				assert( false );
+				// assert( false );
 				common->Warning( "idSession: triggering mainmenu watchdog" );
 				emptyDrawCount = 0;
 				StartMenu();
